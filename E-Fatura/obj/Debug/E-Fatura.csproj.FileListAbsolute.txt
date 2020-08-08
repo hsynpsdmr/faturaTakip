@@ -1,0 +1,14 @@
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\bin\Debug\E-Fatura.exe.config
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\bin\Debug\E-Fatura.exe
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\bin\Debug\E-Fatura.pdb
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csprojAssemblyReference.cache
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E_Fatura.Form1.resources
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E_Fatura.Properties.Resources.resources
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csproj.GenerateResource.cache
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csproj.CopyComplete
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E-Fatura.exe
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E-Fatura.pdb
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E_Fatura.Form2.resources
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E_Fatura.Form3.resources
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E_Fatura.Form4.resources
+C:\Users\hsyn_\source\repos\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csproj.CoreCompileInputs.cache
